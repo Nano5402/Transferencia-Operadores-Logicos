@@ -12,3 +12,5 @@ if (nota >= 60 && asistencia >= 80) {
   console.log("Perdió la materia.")
   alert("Perdió la materia.")
 }
+
+// Pregunta de análisis: ¿Qué operador lógico garantiza que ambas condiciones se  evalúen al mismo tiempo? && porque utilizando esta ambas tienen que ser true para que el resultado me de true
